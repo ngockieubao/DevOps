@@ -1,6 +1,7 @@
 # DevOps
 ## Khái niệm Cloud Computing: Cloud là gì?
-![alt text](image.png)
+
+![alt text](image-3.png)
 
 Cloud là một thuật ngữ mà các bạn đã nghe rất nhiều trong những năm gần đây, nó đã thay đổi hoàn toàn cách các doanh nghiệp vận hành và triển khai phần mềm. Vậy Cloud là gì? Trước khi hiểu được Cloud là gì, ta cần hiểu về khái niệm Cloud Computing.
 
@@ -17,7 +18,7 @@ Và Cloud sẽ được triển khai với các mô hình khác nhau.
 Các loại mô hình của Cloud
 Cloud có hai loại mô hình chính: Public Cloud và Private Cloud.
 
-![alt text](image-1.png)
+![alt text](image-2.png)
 
 Và từ hai mô hình này ta sẽ có hai mô hình phụ nữa là: Hybrid Cloud và Multi-cloud.
 
@@ -44,12 +45,13 @@ Việc doanh nghiệp tự phát triển riêng cho mình một môi trường C
 Sử dụng Public Cloud ở trên Data Center
 Ngày nay, các nhà phát triển Public Cloud đóng gói các dịch vụ Cloud của họ lại thành các ứng dụng mà có thể cài được trên môi trường Data Center (On-premises) của doanh nghiệp.
 
-![alt text](image-2.png)
+![alt text](image-3.png)
 
 Với điều này thì các doanh nghiệp có thể sử dụng dịch vụ Public Cloud một cách dễ dàng mà vẫn đảm bảo được bảo mật, vì dữ liệu và ứng dụng đều được chạy trên Data Center của họ.
 
-Kết luận
-Vậy là ta đã tìm hiểu xong về khái niệm Cloud Computing và Cloud. Cloud sẽ là tương lai của ngành công nghệ và chúng ta nên học để không bị lạc hậu, mình gợi ý các bạn học AWS vì đây là Cloud phổ biến nhất hiện tại. Bài tiếp theo chúng ta sẽ tìm hiểu về khái niệm Resource Pools và Cloud Models.
+Cloud sẽ là tương lai của ngành công nghệ và chúng ta nên học để không bị lạc hậu, mình gợi ý các bạn học AWS vì đây là Cloud phổ biến nhất hiện tại. Bài tiếp theo chúng ta sẽ tìm hiểu về khái niệm Resource Pools và Cloud Models.
+
+src: https://devopsvn.tech/cloud-computing/bai-0-khai-niem-cloud-computing-cloud-la-gi
 
 ## Stacks
 ### 1. Terraform 
